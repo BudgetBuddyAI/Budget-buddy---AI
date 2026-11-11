@@ -29,3 +29,9 @@ prototype under development
 solo participant 
 • Competition 
 Arthaton 2026
+## Demo Video
+
+Watch the BudgetBuddy AI demo here:
+
+[Click here to watch the demo video]
+(https://drive.google.com/file/d/1HWmCM02okHzZIGmQwzoRdYRNrtfR-scu/view?usp=drivesdk)
